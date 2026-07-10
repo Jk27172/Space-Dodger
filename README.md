@@ -74,6 +74,12 @@ https://youtu.be/ocWhuZwQyxI
 
 ---
 
+## Play the Game
+
+itch.io: https://jk27172.itch.io/space-dodger
+
+---
+
 ## Author
 Tashmi
 
