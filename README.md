@@ -67,7 +67,7 @@ The complete source code, assets, and project files are available in this reposi
 ![Gameplay 2](ScreenShots/Game-Play%202.png)
 
 ### Game Over Screen
-![Game Over Screen](ScreenShots/Game-Over%20Screen.png)## Screenshots
+![Game Over Screen](ScreenShots/Game-Over%20Screen.png)
 
 ---
 
