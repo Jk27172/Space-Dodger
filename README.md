@@ -15,7 +15,8 @@ Arcade / Survival
 ---
 
 ### Platform
-PC(Windows) and Android
+PC(Windows)
+Android
 
 ---
 
