@@ -48,7 +48,7 @@ Unity
 
 ---
 
-## Gameplay Video
+## Documentation
 The complete source code, assets, and project files are available in this repository.
 
 ---
@@ -61,13 +61,13 @@ The complete source code, assets, and project files are available in this reposi
 ## Screenshots
 
 ### Gameplay
-![Gameplay](ScreenShots/Game-Play 1.png)
+![Gameplay](Screenshots/Game-Play 1.png)
 
 ### Gameplay 2
-![Gameplay 2](ScreenShots/Game-Play 2.png)
+![Gameplay 2](Screenshots/Game-Play 2.png)
 
 ### Game Over Screen
-![Game Over](ScreenShots/Game-Over Screen.png)
+![Game Over](Screenshots/Game-Over Screen.png)
 
 ---
 
