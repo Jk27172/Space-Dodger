@@ -61,6 +61,15 @@ The complete source code, assets, and project files are available in this reposi
 ## Screenshots
 
 ### Gameplay
+![Gameplay](ScreenShots/Game-Play%201.png)
+
+### Black Hole / Gameplay 2
+![Gameplay 2](ScreenShots/Game-Play%202.png)
+
+### Game Over Screen
+![Game Over Screen](ScreenShots/Game-Over%20Screen.png)## Screenshots
+
+### Gameplay
 ScreenShots/Game-Over Screen.png
 
 ### Gameplay 2
