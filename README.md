@@ -56,7 +56,8 @@ The complete source code, assets, and project files are available in this reposi
 
 ## Gameplay Video
 
-
+▶ Watch the gameplay showcase:
+https://youtu.be/ocWhuZwQyxI
 ---
 
 ## Screenshots
