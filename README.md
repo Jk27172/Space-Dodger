@@ -45,7 +45,7 @@ Unity
 ## Assets & Resources
 - Unity built-in tools and particle systems
 - Sound effects from Pixabay (used under its license)
-- Third-party sprites used for educational and portfolio pirposes
+- Third-party sprites used for educational and portfolio purposes
 
 ---
 
